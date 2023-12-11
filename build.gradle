@@ -6,6 +6,7 @@ plugins {
 
 node {
 	download = true
+    version = "12.18.2"
 }
 
 //declare a build task
